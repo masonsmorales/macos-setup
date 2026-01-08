@@ -53,6 +53,10 @@ brew install --cask zoom
 brew install --cask google-chrome
 brew install --cask brave-browser
 ```
+### OS Customization Software
+```bash
+brew install --cask jordanbaird-ice
+```
 
 ## OS Tweaks
 
