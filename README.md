@@ -36,9 +36,10 @@ brew install black
 brew install isort
 brew install yamllint
 brew install poetry
-brew install pyenv
 brew install bandit
-pyenv install 3.12.3
+brew install uv
+# brew install pyenv
+# pyenv install 3.12.3
 ```
 ### GPG Tools
 ```bash
