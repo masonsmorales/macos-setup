@@ -13,6 +13,7 @@ xcode-select --install
 brew install git
 brew install git-lfs
 brew install --cask git-credential-manager
+brew install ffmpeg
 brew install meld
 brew install dos2unix
 brew install go
